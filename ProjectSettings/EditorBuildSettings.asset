@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Lisbon_Island_Map.unity
+    guid: 419f5d4c5f5120d42b3e8bcfa6300a27
   m_configObjects: {}
