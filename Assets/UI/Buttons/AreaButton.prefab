@@ -149,6 +149,7 @@ GameObject:
   - component: {fileID: 2789075481221092295}
   - component: {fileID: 2789075481221092294}
   - component: {fileID: 2789075481221092290}
+  - component: {fileID: 6984367276674088977}
   m_Layer: 5
   m_Name: AreaButton
   m_TagString: Untagged
@@ -284,11 +285,23 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2789075481221092292}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_EffectColor: {r: 1, g: 1, b: 1, a: 0.5}
-  m_EffectDistance: {x: 1, y: 1}
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
+  m_EffectDistance: {x: 2, y: -1}
   m_UseGraphicAlpha: 1
+--- !u!122 &6984367276674088977
+Halo:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2789075481221092292}
+  m_Enabled: 1
+  m_Color:
+    serializedVersion: 2
+    rgba: 4293456233
+  m_Size: 8.1
