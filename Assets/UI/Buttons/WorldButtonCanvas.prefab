@@ -70,7 +70,7 @@ Canvas:
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
-  m_AdditionalShaderChannelsFlag: 0
+  m_AdditionalShaderChannelsFlag: 25
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
@@ -121,6 +121,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7319864224825337277}
     m_Modifications:
+    - target: {fileID: 1036726792374535627, guid: 10a9321a07973524994e3a6e6533df7f, type: 3}
+      propertyPath: infoPanel
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1036726792374535627, guid: 10a9321a07973524994e3a6e6533df7f, type: 3}
+      propertyPath: sceneIndex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2789075480663589412, guid: 10a9321a07973524994e3a6e6533df7f, type: 3}
       propertyPath: m_Layer
       value: 6

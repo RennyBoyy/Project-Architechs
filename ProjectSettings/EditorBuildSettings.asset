@@ -6,9 +6,24 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Lisbon_Island_Map.unity
+    path: Assets/Scenes/Lisbon_Island_Map 1/Lisbon_Island_Map.unity
     guid: 419f5d4c5f5120d42b3e8bcfa6300a27
   - enabled: 1
-    path: Assets/Scenes/Living Room.unity
+    path: Assets/Scenes/Rooms/1LivingRoom.unity
+    guid: 14c3df987be3d4f43bdfaa0780b5b66c
+  - enabled: 1
+    path: Assets/Scenes/Rooms/2LivingRoom.unity
     guid: fecd9cff22073ef449068d580e83d002
+  - enabled: 1
+    path: Assets/Scenes/Rooms/3LivingRoom.unity
+    guid: 9c777ed5ffc70d24f807c7400c73953c
+  - enabled: 1
+    path: Assets/Scenes/Rooms/4LivingRoom(Kitchen).unity
+    guid: 8301a665bad4e4d4d9c8ffbe4afa9664
+  - enabled: 1
+    path: Assets/Scenes/Rooms/5LivingRoom.unity
+    guid: 481f527a50b94d142a43c72c211e7c59
+  - enabled: 1
+    path: Assets/Scenes/Rooms/6LivingRoom.unity
+    guid: dd594494ecee7eb47beca8ad76e147e8
   m_configObjects: {}
